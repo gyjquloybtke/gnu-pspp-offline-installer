@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Statistical+Analysis-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Statistics-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GNU PSPP Free Installer** — GNU PSPP is a free, open-source statistical analysis program and a drop-in replacement for IBM SPSS. Works without internet access, no account required. Full offline installation.
+**💻 GNU PSPP Free Installer** — GNU PSPP is a free, open-source replacement for IBM SPSS Statistics. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About GNU PSPP
 
-GNU PSPP is a free, open-source statistical analysis program and a drop-in replacement for IBM SPSS. Analyze datasets with descriptive statistics, t-tests, ANOVA, regression, factor analysis, and non-parametric tests. PSPP reads SPSS data files directly and produces output in various formats. It provides an affordable alternative to SPSS for students, researchers, and small organizations.
+GNU PSPP is a free, open-source replacement for IBM SPSS Statistics. It analyzes sampled data through descriptive statistics, regression, ANOVA, factor analysis, and non-parametric tests — providing the same analytical power as SPSS at no cost.
 
 ---
 
 ## ❌ Problem: GNU PSPP is hard to access
 
-- **Feature Coverage** — Some advanced SPSS procedures not yet implemented in PSPP
-- **Interface** — GUI less polished than commercial statistical software
-- **Performance** — Very large datasets may perform slower than SPSS
-- **Documentation** — Less comprehensive documentation than commercial alternatives
+- **SPSS Compatibility Gaps** — Not fully compatible with all SPSS syntax and procedures
+- **Interface Dated** — UI significantly less polished than commercial SPSS
+- **Limited Advanced Procedures** — Some complex SPSS procedures not yet implemented
+- **Documentation** — Less extensive documentation and community help than commercial SPSS
 
 ---
 
@@ -121,7 +121,7 @@ GNU PSPP is a free, open-source statistical analysis program and a drop-in repla
 
 ---
 
-**GNU PSPP Free Installer** — GNU PSPP is a free, open-source statistical analysis program and a drop-in replacement for IBM SPSS. Install without internet connection today!
+**GNU PSPP Free Installer** — GNU PSPP is a free, open-source replacement for IBM SPSS Statistics. Install without internet connection today!
 
 <div align="center">
 
